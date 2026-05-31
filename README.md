@@ -1,4 +1,4 @@
-# CMSC320 HW3 — Student Grade Prediction
+# Student Grade Prediction Project
 
 This project uses survey and exam data to predict student performance through three machine learning tasks: binary pass/fail classification, letter grade classification, and numeric score regression.
 
