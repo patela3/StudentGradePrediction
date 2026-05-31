@@ -1,9 +1,5 @@
 # Student Grade Prediction Project
 
-This project uses survey and exam data to predict student performance through three machine learning tasks: binary pass/fail classification, letter grade classification, and numeric score regression.
-
----
-
 ## Dataset
 
 The data comes from a merged CSV (`merged.csv`) stored in Google Drive. It combines student survey responses with actual exam scores. Key columns include:
